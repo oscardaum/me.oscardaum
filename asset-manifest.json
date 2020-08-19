@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/me.oscardaum/static/css/main.5f361e03.chunk.css",
+    "main.js": "/me.oscardaum/static/js/main.3f817268.chunk.js",
+    "main.js.map": "/me.oscardaum/static/js/main.3f817268.chunk.js.map",
+    "runtime-main.js": "/me.oscardaum/static/js/runtime-main.01f2918f.js",
+    "runtime-main.js.map": "/me.oscardaum/static/js/runtime-main.01f2918f.js.map",
+    "static/js/2.edc2f1fe.chunk.js": "/me.oscardaum/static/js/2.edc2f1fe.chunk.js",
+    "static/js/2.edc2f1fe.chunk.js.map": "/me.oscardaum/static/js/2.edc2f1fe.chunk.js.map",
+    "index.html": "/me.oscardaum/index.html",
+    "precache-manifest.e7fdd896facf7959d79536d58713d480.js": "/me.oscardaum/precache-manifest.e7fdd896facf7959d79536d58713d480.js",
+    "service-worker.js": "/me.oscardaum/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/me.oscardaum/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.edc2f1fe.chunk.js.LICENSE.txt": "/me.oscardaum/static/js/2.edc2f1fe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/me.oscardaum/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01f2918f.js",
+    "static/js/2.edc2f1fe.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3f817268.chunk.js"
+  ]
+}
